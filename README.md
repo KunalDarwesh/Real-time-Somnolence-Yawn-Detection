@@ -11,8 +11,8 @@ Safety of human being is the major concern in vehicle automation. Statistics sho
 7. argparse
 
 ## Screenshots
-![](1.png)
-![](2.png)
+![1](https://user-images.githubusercontent.com/57343972/94825894-52d5a900-0424-11eb-8702-e2d9ca172738.PNG)
+![2](https://user-images.githubusercontent.com/57343972/94825906-55d09980-0424-11eb-9f7d-ef7b600d79ef.PNG)
 
 ## Demo
 https://www.youtube.com/watch?v=q4VCKxLapM0
