@@ -10,6 +10,10 @@ Safety of human being is the major concern in vehicle automation. Statistics sho
 6. numpy
 7. argparse
 
+## Screenshots
+![](1.png)
+![](2.png)
+
 ## Demo
 https://www.youtube.com/watch?v=q4VCKxLapM0
 
