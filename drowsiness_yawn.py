@@ -1,5 +1,3 @@
-#python drowniness_yawn.py --webcam webcam_index
-
 from scipy.spatial import distance as dist
 from imutils.video import VideoStream
 from imutils import face_utils
